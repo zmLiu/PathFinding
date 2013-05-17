@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="core.Util"/>
+    <classEntry path="core.Node"/>
+    <classEntry path="core.Heuristic"/>
+    <classEntry path="core.Grid"/>
+    <classEntry path="core.Heap"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
