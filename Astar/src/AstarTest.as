@@ -15,9 +15,9 @@ package
 	[SWF(width=1024,height=768)]
 	public class AstarTest extends Sprite
 	{
-		private var _cellSize:int = 12;
-		private var _numRow:int = 50;
-		private var _numCols:int = 80;
+		private var _cellSize:int = 6;
+		private var _numRow:int = 100;
+		private var _numCols:int = 160;
 		private var _tileContainer:Sprite;
 		
 		private var _lineShape:Shape;
